@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="535e61ba-2534-49e2-9703-4382b2ee9f92" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/examples/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/examples/ConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/examples/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/examples/PredicateExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
   "keyToString": {
     "Application.ConsumerExample.executor": "Run",
     "Application.FunctionExample.executor": "Run",
+    "Application.PredicateExample.executor": "Run",
     "Application.SupplierExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -64,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FunctionExample">
+  <component name="RunManager" selected="Application.ConsumerExample">
     <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional_interface.examples.ConsumerExample" />
       <module name="ganhando_produtividade_com_Stream_API_Java" />
@@ -91,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.PredicateExample" />
+      <module name="ganhando_produtividade_com_Stream_API_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional_interface.examples.SupplierExample" />
       <module name="ganhando_produtividade_com_Stream_API_Java" />
@@ -106,9 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerExample" />
+        <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.FunctionExample" />
         <item itemvalue="Application.SupplierExample" />
-        <item itemvalue="Application.ConsumerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +147,7 @@
       <updated>1720538806975</updated>
       <workItem from="1720538808160" duration="9012000" />
       <workItem from="1720613879629" duration="1187000" />
-      <workItem from="1720615087725" duration="3255000" />
+      <workItem from="1720615087725" duration="4882000" />
     </task>
     <servers />
   </component>
